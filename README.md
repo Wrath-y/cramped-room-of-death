@@ -1,0 +1,1 @@
+使用cocos creator编写的一款小游戏，目的是学习如何使用cocos creator开发一款小游戏，仅用于学习使用.
